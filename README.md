@@ -18,3 +18,10 @@ Data structures with crt
 16. Quick sort
 17. Breadth first search
 18. Heap sort
+19. Tree traversals
+20. Queue operations
+21. AVL Tree
+22. Depth First Search
+23. Dijkstras Algorithm
+24. Prims Algorithm
+25. Kruskals Algorithm
