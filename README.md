@@ -1,5 +1,5 @@
 # CSA0378
-Data structures with crt
+Data structures with prt
 1. Matrix multiplication
 2. Odd or even number
 3. Array operations- insert, delete, display
